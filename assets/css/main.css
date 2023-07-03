@@ -4080,7 +4080,7 @@ mark, .mark {
         font-size: 14px;
         transition: all 300ms ease;
         font-weight: 300;
-        text-transform: capitalize;
+        text-transform: none;
         height: auto;
         line-height: 1.875;
         color: #8f8f8f;
